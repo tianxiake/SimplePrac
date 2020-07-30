@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="GBK"?>
+<TemplatePackage author="libf" desc="移动IPTV功能模板包V1.0" label="">
+<template name="common_index.json" type="index" desc="通用首页布局" template_path="common_index.json" preview_path="null">
+
+<template name="title_txt.json" type="index" desc="title_txt" template_path="title_txt.json" preview_path="preview/title_txt.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+
+<template name="title_img.json" type="index" desc="title_img" template_path="title_img.json" preview_path="preview/title_img.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+
+<template name="menu.json" type="index" desc="导航栏" template_path="menu.json" preview_path="preview/menu.png">
+<param  name="nav" type="position" value="" desc="导航">
+
+<template name="bottom1.json" type="index" desc="bottom1" template_path="bottom1.json" preview_path="preview/bottom1.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos2">
+
+<template name="bottom2.json" type="index" desc="bottom2" template_path="bottom2.json" preview_path="preview/bottom2.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos2">
+
+<template name="component01.json" type="index" desc="component01" template_path="component01.json" preview_path="preview/component01.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+
+<template name="component01_1.json" type="index" desc="component01_1" template_path="component01_1.json" preview_path="preview/component01_1.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+
+<template name="component04_1.json" type="index" desc="component04_1" template_path="component04_1.json" preview_path="preview/component04_1.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+
+<template name="component06.json" type="index" desc="component06" template_path="component06.json" preview_path="preview/component16.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+
+<template name="component09.json" type="index" desc="component09" template_path="component09.json" preview_path="preview/component09.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+
+<template name="component18.json" type="index" desc="component18" template_path="component18.json" preview_path="preview/component18.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+
+<template name="component19.json" type="index" desc="component19" template_path="component19.json" preview_path="preview/component19.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+
+<template name="component20.json" type="index" desc="component20" template_path="component20.json" preview_path="preview/component20.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+<param  name="pos6" type="position" value="null" desc="pos6">
+
+<template name="component21.json" type="index" desc="component21" template_path="component21.json" preview_path="preview/component21.jpg">
+<param  name="category_pos" type="position" value="null" desc="category_pos">
+
+<template name="component23.json" type="index" desc="component23" template_path="component23.json" preview_path="preview/component23.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+<param  name="pos6" type="position" value="null" desc="pos6">
+
+<template name="component25.json" type="index" desc="component25" template_path="component25.json" preview_path="preview/component25.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+
+<template name="jingpin.json" type="index" desc="jingpin" template_path="jingpin.json" preview_path="preview/jingpin.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+<param  name="pos6" type="position" value="null" desc="pos6">
+<param  name="pos7" type="position" value="null" desc="pos7">
+<param  name="pos8" type="position" value="null" desc="pos8">
+<param  name="pos9" type="position" value="null" desc="pos9">
+<param  name="pos10" type="position" value="null" desc="pos10">
+<param  name="pos11" type="position" value="null" desc="pos11">
+<param  name="pos12" type="position" value="null" desc="pos12">
+
+<template name="liveRecommend.json" type="index" desc="liveRecommend" template_path="liveRecommend.json" preview_path="preview/liveRecommend.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+
+<template name="recommend.json" type="index" desc="recommend" template_path="recommend.json" preview_path="preview/recommend.jpg">
+<param  name="pos1" type="position" value="null" desc="pos1">
+
+<template name="top.json" type="index" desc="top" template_path="top.json" preview_path="preview/top.jpg">
+<param  name="background" type="position" value="" desc="background">
+<param  name="marquee" type="position" value="null" desc="marquee">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="textClock" type="position" value="null" desc="textClock">
+<param  name="logo" type="position" value="null" desc="logo">
+
+<template name="livecollection.json" type="index" desc="livecollection" template_path="livecollection.json" preview_path="preview/livecollection.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+
+<template name="channel_component1.json" type="index" desc="channel_component1" template_path="channel_component1.json" preview_path="preview/channel_component1.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+
+<template name="channel_component2.json" type="index" desc="channel_component2" template_path="channel_component2.json" preview_path="preview/channel_component2.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+<param  name="pos6" type="position" value="null" desc="pos6">
+
+<template name="movie_index.json" type="index" desc="movie_index" template_path="movie_index.json" preview_path="preview/movie_index.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+
+<template name="news_index.json" type="index" desc="news_index" template_path="news_index.json" preview_path="preview/news_index.png">
+<param  name="recommendPos" type="position" value="null" desc="recommendPos">
+<param  name="traillerPos" type="position" value="null" desc="traillerPos">
+
+<template name="sport_index.json" type="index" desc="sport_index" template_path="sport_index.json" preview_path="preview/sport_index.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+
+<template name="five_navigation.json" type="index" desc="五导航模板" template_path="five_navigation.json" preview_path="preview/five_navigation.png">
+<param  name="p1" type="position" value="null" desc="1号推荐位">
+<param  name="p2" type="position" value="null" desc="2号推荐位">
+<param  name="p3" type="position" value="null" desc="3号推荐位">
+<param  name="p4" type="position" value="null" desc="4号推荐位">
+<param  name="p5" type="position" value="null" desc="5号推荐位">
+
+<template name="four_navigation.json" type="index" desc="四导航模板" template_path="four_navigation.json" preview_path="preview/four_navigation.png">
+<param  name="p1" type="position" value="null" desc="1号推荐位">
+<param  name="p2" type="position" value="null" desc="2号推荐位">
+<param  name="p3" type="position" value="null" desc="3号推荐位">
+<param  name="p4" type="position" value="null" desc="4号推荐位">
+
+<template name="layout1.json" type="index" desc="左一大右四小模板" template_path="layout1.json" preview_path="preview/layout1.png">
+<param  name="p1" type="position" value="null" desc="左大图推荐位">
+<param  name="p2" type="position" value="null" desc="右小图一号推荐位">
+<param  name="p3" type="position" value="null" desc="右小图二号推荐位">
+<param  name="p4" type="position" value="null" desc="右小图三号推荐位">
+<param  name="p5" type="position" value="null" desc="右小图四号推荐位">
+
+<template name="recommand_1.json" type="index" desc="recommand_1" template_path="recommand_1.json" preview_path="preview/recommand_1.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+<param  name="pos6" type="position" value="null" desc="pos6">
+
+<template name="recommand_history_collection.json" type="index" desc="recommand_history_collection" template_path="recommand_history_collection.json" preview_path="preview/recommand_history_collection.png">
+<param  name="lastPlay" type="position" value="null" desc="lastPlay">
+<param  name="history_collection" type="position" value="null" desc="history_collection">
+<param  name="p3" type="position" value="null" desc="p3">
+<param  name="p4" type="position" value="null" desc="p4">
+
+<template name="six_navigation.json" type="index" desc="六导航模板" template_path="six_navigation.json" preview_path="preview/six_navigation.png">
+<param  name="p1" type="position" value="null" desc="1号推荐位">
+<param  name="p2" type="position" value="null" desc="2号推荐位">
+<param  name="p3" type="position" value="null" desc="3号推荐位">
+<param  name="p4" type="position" value="null" desc="4号推荐位">
+<param  name="p5" type="position" value="null" desc="5号推荐位">
+<param  name="p6" type="position" value="null" desc="6号推荐位">
+
+<template name="three_navigation.json" type="index" desc="三导航模板" template_path="three_navigation.json" preview_path="preview/three_navigation.png">
+<param  name="p1" type="position" value="null" desc="1号推荐位">
+<param  name="p2" type="position" value="null" desc="2号推荐位">
+<param  name="p3" type="position" value="null" desc="3号推荐位">
+
+<template name="dianshiju.json" type="index" desc="dianshiju" template_path="dianshiju.json" preview_path="preview/dianshiju.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+
+<template name="falls002.json" type="index" desc="falls002" template_path="falls002.json" preview_path="preview/falls002.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+
+<template name="falls003.json" type="index" desc="falls003" template_path="falls003.json" preview_path="preview/falls003.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+
+<template name="shaoer2.json" type="index" desc="shaoer2" template_path="shaoer2.json" preview_path="preview/shaoer2.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+
+<template name="six_pic.json" type="index" desc="six_pic" template_path="six_pic.json" preview_path="preview/six_pic.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+<param  name="pos6" type="position" value="null" desc="pos6">
+
+<template name="zongyi_zixun.json" type="index" desc="zongyi_zixun" template_path="zongyi_zixun.json" preview_path="preview/zongyi_zixun.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+
+<template name="history_list.json" type="index" desc="history_list" template_path="history_list.json" preview_path="preview/history_list.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+
+<template name="vod_collection_list.json" type="index" desc="vod_collection_list" template_path="vod_collection_list.json" preview_path="preview/vod_collection_list.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+
+<template name="search_enter.json" type="index" desc="search_enter" template_path="search_enter.json" preview_path="preview/search_enter.png">
+<param  name="p1" type="position" value="null" desc="p1">
+
+<template name="layout3.json" type="index" desc="layout3" template_path="layout3.json" preview_path="preview/layout3.jpg">
+<param  name="p1" type="position" value="null" desc="p1">
+<param  name="p2" type="position" value="null" desc="p2">
+<param  name="p3" type="position" value="null" desc="p3">
+<param  name="p4" type="position" value="null" desc="p4">
+<param  name="p5" type="position" value="null" desc="p5">
+<param  name="p6" type="position" value="null" desc="p6">
+
+<template name="layout2.json" type="index" desc="layout2" template_path="layout2.json" preview_path="preview/layout2.png">
+<param  name="p1" type="position" value="null" desc="p1">
+<param  name="p2" type="position" value="null" desc="p2">
+<param  name="p3" type="position" value="null" desc="p3">
+<param  name="p4" type="position" value="null" desc="p4">
+<param  name="p5" type="position" value="null" desc="p5">
+
+<template name="layout4.json" type="index" desc="layout4" template_path="layout4.json" preview_path="preview/layout4.png">
+<param  name="p1" type="position" value="null" desc="p1">
+<param  name="p2" type="position" value="null" desc="p2">
+<param  name="p3" type="position" value="null" desc="p3">
+<param  name="p4" type="position" value="null" desc="p4">
+<param  name="p5" type="position" value="null" desc="p5">
+
+<template name="category.json" type="index" desc="category" template_path="category.json" preview_path="preview/category.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="nav" type="position" value="null" desc="nav">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+<param  name="pos6" type="position" value="null" desc="pos6">
+<param  name="pos7" type="position" value="null" desc="pos7">
+
+<template name="top2.json" type="index" desc="top2" template_path="top2.json" preview_path="preview/top2.png">
+<param  name="background" type="position" value="" desc="background">
+<param  name="marquee" type="position" value="null" desc="marquee">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="networkDisplay" type="position" value="null" desc="networkDisplay">
+<param  name="textClock" type="position" value="null" desc="textClock">
+<param  name="logo" type="position" value="null" desc="logo">
+
+<template name="component26.json" type="index" desc="component26" template_path="component26.json" preview_path="preview/component26.jpg">
+<param  name="pos0" type="position" value="null" desc="pos0">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+<param  name="pos6" type="position" value="null" desc="pos6">
+<param  name="pos7" type="position" value="null" desc="pos7">
+<param  name="pos8" type="position" value="null" desc="pos8">
+<param  name="pos9" type="position" value="null" desc="pos9">
+<param  name="pos10" type="position" value="null" desc="pos10">
+
+<template name="component27.json" type="index" desc="component27" template_path="component27.json" preview_path="preview/component27.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+
+<template name="layout5.json" type="index" desc="layout5" template_path="layout5.json" preview_path="preview/layout5.jpg">
+<param  name="p1" type="position" value="null" desc="p1">
+<param  name="p2" type="position" value="null" desc="p2">
+<param  name="p3" type="position" value="null" desc="p3">
+
+<template name="layout6.json" type="index" desc="layout6" template_path="layout6.json" preview_path="preview/layout6.jpg">
+<param  name="p1" type="position" value="null" desc="p1">
+<param  name="p2" type="position" value="null" desc="p2">
+<param  name="p3" type="position" value="null" desc="p3">
+
+<template name="component28.json" type="index" desc="component28" template_path="component28.json" preview_path="preview/component28.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+
+<template name="component29.json" type="index" desc="component29" template_path="component29.json" preview_path="preview/component29.png">
+<param  name="pos1" type="position" value="null" desc="pos1">
+<param  name="pos2" type="position" value="null" desc="pos2">
+<param  name="pos3" type="position" value="null" desc="pos3">
+<param  name="pos4" type="position" value="null" desc="pos4">
+<param  name="pos5" type="position" value="null" desc="pos5">
+<param  name="pos6" type="position" value="null" desc="pos6">
+
+<template name="layout7.json" type="index" desc="layout7" template_path="layout7.json" preview_path="preview/layout7.png">
+<param  name="p1" type="position" value="null" desc="p1">
+<param  name="p2" type="position" value="null" desc="p2">
+<param  name="p3" type="position" value="null" desc="p3">
+<param  name="p4" type="position" value="null" desc="p4">
+
+</TemplatePackage>
