@@ -3,12 +3,14 @@ package com.snail.test.linked;
 public class SingleLinkedList<E> {
 
     private Entry<E> headEntry;
+    private Entry<E> endEntry;
     private int size = 0;
 
     public SingleLinkedList() {
         headEntry = new Entry<>();
         headEntry.setData(null);
         headEntry.setNextEntry(null);
+        endEntry = headEntry;
     }
 
     public int size() {
@@ -16,17 +18,19 @@ public class SingleLinkedList<E> {
     }
 
     /**
-     * 尾插入
+     * 尾插入（ 遍历查找） 这样每次插入的复杂度变成了O（n）
      */
     public void add(E e) {
         Entry<E> entry = new Entry();
         entry.setData(e);
         entry.setNextEntry(null);
-        Entry endEntry = headEntry;
-        while (endEntry.getNextEntry() != null) {
-            endEntry = endEntry.getNextEntry();
-        }
         endEntry.setNextEntry(entry);
+        endEntry = entry;
+//        Entry endEntry = headEntry;
+//        while (endEntry.getNextEntry() != null) {
+//            endEntry = endEntry.getNextEntry();
+//        }
+//        endEntry.setNextEntry(entry);
         size++;
     }
 
